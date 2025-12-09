@@ -23,4 +23,4 @@ The results demonstrate the impact of these modifications on segmentation perfor
 | **ENet**           | 89.92 | 65.25    | 20.72 | 91.92 | **74.56**    | 61.48 | **17.50**  | **19.42** | **69.43** | 30.60      | 33.69     |
 | **ENet+Mish+SAD**  | **90.24** | **67.71**    | **21.60** | **91.94** | 72.27    | **63.70** | 17.09  | 16.33 | 65.68 | **31.95**      | **34.45**     |
 
-The comparative analysis conclusively shows that the integration of Mish and SAD significantly enhances the performance of ENet, particularly in terms of average IoU across different classes, thereby advancing the reliability of road scene segmentation in autonomous vehicles
+The comparative analysis conclusively shows that the integration of Mish and SAD enhances the performance of ENet, particularly in terms of average IoU across different classes, thereby advancing the reliability of road scene segmentation in autonomous vehicles
